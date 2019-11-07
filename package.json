@@ -1,7 +1,7 @@
 {
-  "name": "koa-typescript-api-v2",
+  "name": "koi",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Koa-Typescript Boilerplate",
   "main": "dist/server.js",
   "scripts": {
     "start-dev": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node src/server.ts",
@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@code.98labs.com:boilerplates/koa-typescript-api-v2.git"
+    "url": "git@github.com:98labs/koi.git"
   },
-  "author": "98labs",
+  "author": "98Labs, Inc.",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.7",
