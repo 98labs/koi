@@ -1,0 +1,28 @@
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+bower_components
+
+# Editors
+.idea
+*.iml
+.vscode
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
+dist-migrations/**/*
+
+# Logging files
+*.log
+logs/**/*
+
+# Test Coverage (Istanbul)
+.nyc_output/**/*
+coverage/**/*
+
