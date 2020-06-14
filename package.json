@@ -46,7 +46,7 @@
     "custom-env": "^1.0.2",
     "dotenv": "^6.0.0",
     "jsonapi-serializer": "^3.6.5",
-    "koa": "^2.7.0",
+    "koa": "^2.12.1",
     "koa-bodyparser": "^4.2.1",
     "koa-helmet": "^4.0.0",
     "koa-jwt": "^3.3.2",
