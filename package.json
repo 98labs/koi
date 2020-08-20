@@ -41,7 +41,7 @@
   "dependencies": {
     "@koa/cors": "^2.2.1",
     "@types/bcrypt": "^3.0.0",
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "class-validator": "^0.9.1",
     "custom-env": "^1.0.2",
     "dotenv": "^6.0.0",
