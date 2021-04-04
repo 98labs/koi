@@ -49,7 +49,7 @@
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-helmet": "^4.0.0",
-    "koa-jwt": "^3.3.2",
+    "koa-jwt": "^4.0.1",
     "koa-router": "^7.4.0",
     "pg": "^7.9.0",
     "pg-hstore": "^2.3.2",
