@@ -1,0 +1,38 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    timezone: Asia/Manila
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: "@types/chai"
+    versions:
+    - 4.2.14
+    - 4.2.15
+    - 4.2.16
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+  - dependency-name: winston-daily-rotate-file
+    versions:
+    - 4.5.0
+    - 4.5.1
+  - dependency-name: "@types/koa"
+    versions:
+    - 2.11.7
+    - 2.11.8
+    - 2.13.0
+  - dependency-name: urijs
+    versions:
+    - 1.19.5
+  - dependency-name: koa-helmet
+    versions:
+    - 6.0.0
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: koa-jwt
+    versions:
+    - 4.0.0
