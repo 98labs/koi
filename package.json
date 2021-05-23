@@ -44,7 +44,7 @@
     "bcrypt": "^3.0.5",
     "class-validator": "^0.9.1",
     "custom-env": "^1.0.2",
-    "dotenv": "^6.0.0",
+    "dotenv": "^10.0.0",
     "jsonapi-serializer": "^3.6.5",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
